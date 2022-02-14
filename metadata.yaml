@@ -1,0 +1,26 @@
+_repo: The-County-The-Dark-Continent-of-American-Politics_67350
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbertson, H. S.
+    gutenberg_agent_id: '54220'
+    url: http://www.gutenberg.org/2009/agents/54220
+description: ''
+gutenberg_issued: '2022-02-07'
+identifiers:
+  gutenberg: '67350'
+language: en
+pgterms:marc904: https://archive.org/details/countydarkcontin00gilbrich
+pgterms:marc905: 20200304085824gilbertson
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The National Short Ballot Organization,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The County: The "Dark Continent" of American Politics'
+url: http://www.gutenberg.org/ebooks/67350
